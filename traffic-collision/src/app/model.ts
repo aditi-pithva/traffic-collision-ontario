@@ -1,0 +1,44 @@
+interface FormDataInterface {
+    TIME?: string | null | undefined;
+    STREET1: string | null | undefined;
+    STREET2: string | null | undefined;
+    ROAD_CLASS: string | null | undefined;
+    DISTRICT: string | null | undefined;
+    LATITUDE: string | null | undefined;
+    LONGITUDE: string | null | undefined;
+    ACCLOC: string | null | undefined;
+    TRAFFCTL: string | null | undefined;
+    VISIBILITY: string | null | undefined;
+    LIGHT: string | null | undefined;
+    RDSFCOND: string | null | undefined;
+    IMPACTYPE: string | null | undefined;
+    INVTYPE: string | null | undefined;
+    INVAGE: string | null | undefined;
+    INJURY: string | null | undefined;
+    VEHTYPE: string | null | undefined;
+    PEDTYPE: string | null | undefined;
+    PEDACT: string | null | undefined;
+    PEDCOND: string | null | undefined;
+    CYCLISTYPE: string | null | undefined;
+    CYCACT: string | null | undefined;
+    CYCCOND: string | null | undefined;
+    PEDESTRIAN: string | null | undefined;
+    CYCLIST: string | null | undefined;
+    AUTOMOBILE: string | null | undefined;
+    MOTORCYCLE: string | null | undefined;
+    TRUCK: string | null | undefined;
+    TRSN_CITY_VEH: string | null | undefined;
+    EMERG_VEH: string | null | undefined;
+    PASSENGER: string | null | undefined;
+    SPEEDING: string | null | undefined;
+    AG_DRIV: string | null | undefined;
+    REDLIGHT: string | null | undefined;
+    ALCOHOL: string | null | undefined;
+    DISABILITY: string | null | undefined;
+    HOOD_158: string | null | undefined;
+    NEIGHBOURHOOD_158: string | null | undefined;
+    HOOD_140: string | null | undefined;
+    NEIGHBOURHOOD_140: string | null | undefined;
+    DIVISION: string | null | undefined;
+  }
+  
