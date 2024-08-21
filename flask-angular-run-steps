@@ -1,0 +1,22 @@
+steps to run flask file:
+	1: python -m venv venv
+	2: venv\Scripts\activate
+	3: pip install flask
+	4: pip instal pandas
+	5: pip install joblib==1.2.0
+	6: pip install scikip-learn==1.2.2
+	7: pip install numpy==1.26.4
+	8: pip install flask-cors
+	9: open folder to vscode
+	10: press Ctrl+Shift+P and select Python interpreter
+	11: choose venv python.exe
+	12: go to run and debug
+	13: click on create launch.json file
+	14: select Python and then Flask
+	15: run the application
+	
+Steps to run Angular Application:
+	1. go to traffic-collision
+	2. npm install -g @angular/cli
+	3. run npm install
+	4. ng serve
